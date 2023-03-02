@@ -18,6 +18,7 @@ ngOnInit(): void {
     this.tasks= tasks
   ));
 }
+  deleteTask(task:Task){
 
-
+  }
 }
